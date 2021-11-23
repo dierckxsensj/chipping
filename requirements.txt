@@ -9,5 +9,6 @@ pandas==1.1.5
 # Added for building wheels
 wheel
 setuptools
+pep517
 rvai.types-2.12.2rc33-py2.py3-none-any.whl
 data_exporter-0.0.1-py2.py3-none-any.whl
